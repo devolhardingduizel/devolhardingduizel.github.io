@@ -1,8 +1,17 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Over ons"
     url: /over-ons/
+  - title: "Aanmelden"
+    url: /aanmelden
+  - title: "Activiteitenkalender"
+    url: /activiteitenkalender
+  - title: "Foto's"
+    url: /fotos
+  - title: "Contact"
+    url: /contact
+
+about:
+  - title: "Over ons"
     children:
       - title: "Geschiedenis"
         url: "/over-ons/geschiedenis/"
@@ -16,12 +25,3 @@ main:
         url: "/over-ons/sigarenbendje/"
       - title: "Bestuur"
         url: "/over-ons/bestuur/"
-  - title: "Aanmelden"
-    url: /aanmelden
-  - title: "Activiteitenkalender"
-    url: /activiteitenkalender
-  - title: "Foto's"
-    url: /fotos
-  - title: "Contact"
-    url: /contact
-  
