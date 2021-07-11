@@ -1,0 +1,27 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Over ons"
+    url: /over-ons/
+    children:
+      - title: "Geschiedenis"
+        url: "/over-ons/geschiedenis/"
+      - title: "Fanfare"
+        url: "/over-ons/fanfare/"
+      - title: "Percussiegroep"
+        url: "/over-ons/percussiegroep/"
+      - title: "Leerlingenorkest"
+        url: "/over-ons/leerlingenorkest/"
+      - title: "'t Sigarenbêndje"
+        url: "/over-ons/sigarenbendje/"
+      - title: "Bestuur"
+        url: "/over-ons/bestuur/"
+  - title: "Aanmelden"
+    url: /aanmelden
+  - title: "Activiteitenkalender"
+    url: /activiteitenkalender
+  - title: "Foto's"
+    url: /fotos
+  - title: "Contact"
+    url: /contact
+  

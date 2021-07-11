@@ -248,9 +248,8 @@ defaults:
       show_date: true
       read_time: false
       
-      
       layout: single
-      author_profile: true
-      comments: # true
+      author_profile: false
+      comments: false
       share: true
       related: true
