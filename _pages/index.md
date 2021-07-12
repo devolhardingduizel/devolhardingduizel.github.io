@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: /
+layout: home
 ---
 ## Welcome to GitHub Pages
 
