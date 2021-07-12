@@ -1,4 +1,4 @@
 ---
 title: Leerlingenorkest
-permalink: /over-ons/leerlingenorkest
+permalink: /over-ons/leerlingenorkest/
 ---
