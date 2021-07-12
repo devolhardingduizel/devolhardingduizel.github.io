@@ -260,7 +260,8 @@ defaults:
     values:
       show_date: false
       read_time: false
-      layout: wide
+      layout: single
+      classes: wide
       author_profile: false
       comments: false
       share: true
