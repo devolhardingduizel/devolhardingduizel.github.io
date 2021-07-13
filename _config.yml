@@ -261,9 +261,10 @@ defaults:
       show_date: false
       read_time: false
       layout: single
-      classes: wide
+      classes:
+        - wide
       author_profile: false
       comments: false
-      share: true
+      share: false
       related: true
 
