@@ -268,7 +268,7 @@ defaults:
       share: false
       related: true
   - scope:
-      path: "_pages/about"
+      path: "_pages/over-ons"
       type: pages
     values:
       sidebar:
