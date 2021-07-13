@@ -267,4 +267,10 @@ defaults:
       comments: false
       share: false
       related: true
+  - scope:
+      path: "_pages/about"
+      type: pages
+    values:
+      sidebar:
+        nav: "about"
 
