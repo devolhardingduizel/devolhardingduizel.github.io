@@ -3,11 +3,10 @@ id: 2462
 title: Duizel 75 jaar bevrijd!
 date: 2019-06-20T14:06:31+00:00
 author: Hilde van Stiphout
-layout: post
-guid: http://devolhardingduizel.nl/?p=2462
+layout: single
 permalink: /duizel-75-jaar-bevrijd/
 categories:
-  - Geen categorie
+  - Algemeen
 ---
 Het weekend van 9 en 10 november 2019 stond in Duizel in het teken van 75-jarig Bevrijding.
 

@@ -3,11 +3,10 @@ id: 349
 title: Halloween in Duizel groot succes!
 date: 2013-02-27T12:03:01+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=349
-permalink: /349-2/
+layout: single
+permalink: /halloween-in-duizel-groot-success/
 categories:
-  - Geen categorie
+  - Algemeen
 ---
 <span style="font-size: 15px;">Het Halloween- spektakel in Duizel van zaterdag 3 november was een groot succes. De aftrap met een dodentocht vanaf het Smisplein trok al veel publiek mee naar de Smis waar fanfare en percussiegroep van de Volharding om de beurt een paar minuten speelden. De opzet was zoals de Villa Volta in de Efteling; steeds een groepje naar binnen, muziek maken, mensen weer naar buiten en dan de volgende groep naar binnen. De ene keer speelde de fanfare, de andere keer de percussiegroep. Er was tot aan de sluitingstijd steeds nieuw publiek, wat het voor de muzikanten erg leuk maakte.</span>
 

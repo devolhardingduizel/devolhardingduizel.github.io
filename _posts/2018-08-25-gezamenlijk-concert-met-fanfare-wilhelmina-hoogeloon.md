@@ -3,11 +3,10 @@ id: 2435
 title: Gezamenlijk concert met Fanfare Wilhelmina Hoogeloon
 date: 2018-08-25T14:41:57+00:00
 author: Hilde van Stiphout
-layout: post
-guid: http://devolhardingduizel.nl/?p=2435
+layout: single
 permalink: /gezamenlijk-concert-met-fanfare-wilhelmina-hoogeloon/
 categories:
-  - Geen categorie
+  - Algemeen
 ---
 Op zaterdag 13 oktober 2018 ging muziekvereniging de Volharding samen met fanfare Wilhelmina uit Hoogeloon samen het podium op in d&#8217;n Anloop in Hoogeloon.
 

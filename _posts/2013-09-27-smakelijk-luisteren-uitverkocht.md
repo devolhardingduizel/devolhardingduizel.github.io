@@ -3,11 +3,10 @@ id: 511
 title: Smakelijk luisteren uitverkocht!
 date: 2013-09-27T13:06:30+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=511
+layout: single
 permalink: /smakelijk-luisteren-uitverkocht/
 categories:
-  - Geen categorie
+  - Smakelijk luisteren
 ---
 <p dir="ltr">
   Met trots kunnen wij u melden dat het concert ‘Smakelijk Luisteren’ van muziekvereniging ‘De Volharding’ is uitverkocht! De geluksvogels die een kaartje hebben kunnen bemachtigen gaan genieten van een avondvullend programma met muziek uit verschillende landen en de daarbij behorende smaken. Zij gaan dus zeker met een voldaan gevoel naar huis.

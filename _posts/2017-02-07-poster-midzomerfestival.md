@@ -1,13 +1,13 @@
 ---
 id: 2375
-title: 10 juni 2017
+title: Poster Midzomerfestival
 date: 2017-02-07T14:44:42+00:00
 author: Hilde van Stiphout
-layout: post
+layout: single
 guid: http://devolhardingduizel.nl/?p=2375
-permalink: /10-juni-2017/
+permalink: /poster-midzomerfestival/
 categories:
-  - Geen categorie
+  - Midzomerfestival
 ---
 <img class="size-medium wp-image-2383 aligncenter" src="http://devolhardingduizel.nl/cms/wp-content/uploads/2017/02/poster-midzomer-festival-de-volharding-212x300.jpg" alt="" width="212" height="300" srcset="http://devolhardingduizel.nl/cms/wp-content/uploads/2017/02/poster-midzomer-festival-de-volharding-212x300.jpg 212w, http://devolhardingduizel.nl/cms/wp-content/uploads/2017/02/poster-midzomer-festival-de-volharding-768x1086.jpg 768w, http://devolhardingduizel.nl/cms/wp-content/uploads/2017/02/poster-midzomer-festival-de-volharding-724x1024.jpg 724w, http://devolhardingduizel.nl/cms/wp-content/uploads/2017/02/poster-midzomer-festival-de-volharding-750x1061.jpg 750w" sizes="(max-width: 212px) 100vw, 212px" />
 

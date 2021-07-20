@@ -3,11 +3,10 @@ id: 519
 title: Muziekvereniging “de Volharding” uit Duizel viert dit jaar haar 50 jarig jubileum.
 date: 2014-03-28T14:36:31+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=519
+layout: single
 permalink: /muziekvereniging-de-volharding-uit-duizel-viert-dit-jaar-haar-50-jarig-jubileum/
 categories:
-  - Geen categorie
+  - 50 Jarig jubileum
 ---
 Op 14 september 1964 is de fanfare “de Volharding” opgericht door een aantal Duizelse  
 muziekliefhebbers.  

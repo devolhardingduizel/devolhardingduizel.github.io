@@ -3,11 +3,10 @@ id: 565
 title: '50 jaar Muziekvereniging &#8220;De Volharding&#8221;'
 date: 2014-05-29T13:18:36+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=565
+layout: single
 permalink: /50-jaar-muziekvereniging-de-volharding-3/
 categories:
-  - Geen categorie
+  - 50 Jarig jubileum
 ---
 Op vrijdag 12 september starten we onze activiteiten met een rondwandeling door het dorp.
 

@@ -3,11 +3,10 @@ id: 679
 title: Programma feestweekend
 date: 2014-09-09T21:50:25+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=679
+layout: single
 permalink: /programma-feestweekend/
 categories:
-  - Geen categorie
+  - 50 Jarig jubileum
 ---
 Inmiddels kan niemand er meer omheen; 12, 13 en 14 september gaan we knallen!!
 

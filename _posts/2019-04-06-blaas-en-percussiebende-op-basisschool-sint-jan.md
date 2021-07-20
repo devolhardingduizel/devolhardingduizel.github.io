@@ -3,11 +3,10 @@ id: 2448
 title: 'Blaas- en Percussiebende op basisschool Sint Jan'
 date: 2019-04-06T19:58:21+00:00
 author: Hilde van Stiphout
-layout: post
-guid: http://devolhardingduizel.nl/?p=2448
+layout: single
 permalink: /blaas-en-percussiebende-op-basisschool-sint-jan/
 categories:
-  - Geen categorie
+  - Opleiding
 ---
 Vanaf 14 maart 2019 krijgen de kinderen van groep 5 en groep 6 van basisschool Sint Jan op donderdagmiddag muziekles van Art4U, in samenwerking met muziekvereniging de Volharding. In 8 weken leren ze op een blaasinstrument te spelen of&nbsp; leren ze alle facetten kennen van percussie/slagwerk onder leiding van Miranda Dijkstra en Pieter van den Broek van Art4U.
 

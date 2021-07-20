@@ -3,8 +3,7 @@ id: 437
 title: Een Paso Doble
 date: 2013-05-08T12:05:29+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=437
+layout: single
 permalink: /een-paso-doble/
 enclosure:
   - |
@@ -18,7 +17,7 @@ enclosure:
     video/webm
     
 categories:
-  - Geen categorie
+  - Algemeen
 ---
 <div style="position: relative; left: auto; right: auto;">
   <figure>

@@ -3,11 +3,10 @@ id: 677
 title: Korte comeback voor Red Color Band
 date: 2014-09-09T21:48:00+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=677
+layout: single
 permalink: /korte-comeback-voor-red-color-band/
 categories:
-  - Geen categorie
+  - 50 Jarig jubileum
 ---
 <p class="introduction text" style="color: #000000;">
   DUIZEL &#8211; Vijftien jaar lang ging het dak eraf tijdens optredens van de Red Color Band uit Duizel.

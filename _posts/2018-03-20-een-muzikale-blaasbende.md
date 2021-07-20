@@ -3,11 +3,10 @@ id: 2407
 title: Een muzikale Blaasbende
 date: 2018-03-20T16:45:22+00:00
 author: Hilde van Stiphout
-layout: post
-guid: http://devolhardingduizel.nl/?p=2407
+layout: single
 permalink: /een-muzikale-blaasbende/
 categories:
-  - Geen categorie
+  - Opleiding
 ---
 <table>
   <tr>

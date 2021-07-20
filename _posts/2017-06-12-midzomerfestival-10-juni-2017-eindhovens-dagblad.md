@@ -3,11 +3,10 @@ id: 2391
 title: 'Midzomerfestival 10 juni 2017,  Eindhovens Dagblad'
 date: 2017-06-12T19:08:08+00:00
 author: Hilde van Stiphout
-layout: post
-guid: http://devolhardingduizel.nl/?p=2391
+layout: single
 permalink: /midzomerfestival-10-juni-2017-eindhovens-dagblad/
 categories:
-  - Geen categorie
+  - Midzomerfestival
 ---
 **Midzomerfestival Duizel: lekker warm, goed eten en lekker ritmisch**
 

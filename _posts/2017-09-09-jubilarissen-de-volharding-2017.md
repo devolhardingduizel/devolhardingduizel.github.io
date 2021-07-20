@@ -3,11 +3,10 @@ id: 2396
 title: Jubilarissen de Volharding 2017
 date: 2017-09-09T20:40:32+00:00
 author: Hilde van Stiphout
-layout: post
-guid: http://devolhardingduizel.nl/?p=2396
+layout: single
 permalink: /jubilarissen-de-volharding-2017/
 categories:
-  - Geen categorie
+  - Algemeen
 ---
 <img class="alignnone size-medium wp-image-2397" src="http://devolhardingduizel.nl/cms/wp-content/uploads/2017/09/Feestavond_De_Volharding_08-09-2017_461-300x225.jpg" alt="" width="300" height="225" srcset="http://devolhardingduizel.nl/cms/wp-content/uploads/2017/09/Feestavond_De_Volharding_08-09-2017_461-300x225.jpg 300w, http://devolhardingduizel.nl/cms/wp-content/uploads/2017/09/Feestavond_De_Volharding_08-09-2017_461-768x576.jpg 768w, http://devolhardingduizel.nl/cms/wp-content/uploads/2017/09/Feestavond_De_Volharding_08-09-2017_461-1024x768.jpg 1024w, http://devolhardingduizel.nl/cms/wp-content/uploads/2017/09/Feestavond_De_Volharding_08-09-2017_461-750x563.jpg 750w" sizes="(max-width: 300px) 100vw, 300px" />
 

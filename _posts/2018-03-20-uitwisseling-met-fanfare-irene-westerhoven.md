@@ -3,11 +3,10 @@ id: 2409
 title: Uitwisseling met fanfare Irene Westerhoven
 date: 2018-03-20T16:53:36+00:00
 author: Hilde van Stiphout
-layout: post
-guid: http://devolhardingduizel.nl/?p=2409
+layout: single
 permalink: /uitwisseling-met-fanfare-irene-westerhoven/
 categories:
-  - Geen categorie
+  - Algemeen
 ---
 &nbsp;
 

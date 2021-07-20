@@ -3,11 +3,10 @@ id: 419
 title: 'Muziekvereniging de Volharding geeft een&#8230;'
 date: 2013-04-06T09:20:16+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=419
+layout: single
 permalink: /muziekvereniging-de-volharding-geef-een/
 categories:
-  - Geen categorie
+  - Algemeen
 ---
 ….voorjaarsconcert in Duizel.
 

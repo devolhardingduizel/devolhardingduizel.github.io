@@ -3,11 +3,10 @@ id: 674
 title: Muziekvereniging De Volharding in Duizel bestaat 50 jaar
 date: 2014-09-09T21:46:17+00:00
 author: Koen
-layout: post
-guid: http://devolhardingduizel.nl/?p=674
+layout: single
 permalink: /muziekvereniging-de-volharding-in-duizel-bestaat-50-jaar/
 categories:
-  - Geen categorie
+  - 50 Jarig jubileum
 ---
 <p class="introduction text" style="color: #000000;">
   DUIZEL &#8211; Een muzikale wandeling door de tijd, van oude naar nieuwe nummers. Dat is de opzet van het jubileumconcert van muziekvereniging De Volharding in Duizel op zaterdagavond.
