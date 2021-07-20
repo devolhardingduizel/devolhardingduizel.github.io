@@ -2,13 +2,13 @@
 title: Contact
 permalink: /contact/
 ---
-## Secretariaat
+### Secretariaat
 {{ site.contact.name }}\
 {{ site.contact.address }}\
 {{ site.contact.postal }} {{ site.contact.city }}
 
-## Telefoon
+### Telefoon
 [{{ site.contact.phone }}](tel:{{ site.contact.phone }})
 
-## E-mail
+### E-mail
 [{{ site.contact.email }}](mailto:{{ site.contact.email }})
