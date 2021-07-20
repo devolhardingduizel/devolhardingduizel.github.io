@@ -12,11 +12,11 @@ In onderling overleg wordt dan besproken in welk instrument men geïnteresseerd 
 ## Leden
 Muziekvereniging De Volharding kent de volgende leden:
  - Jeugdleden.
- ..- Jeugdlid is degene die bij het begin van het verenigingsjaar de leeftijd van 18 jaar nog niet heeft bereikt.
+   - Jeugdlid is degene die bij het begin van het verenigingsjaar de leeftijd van 18 jaar nog niet heeft bereikt.
  - Gewone leden.
- ..- Gewoon lid is degene die bij het begin van het verenigingsjaar de leeftijd van 18 jaar heeft bereikt.
+   - Gewoon lid is degene die bij het begin van het verenigingsjaar de leeftijd van 18 jaar heeft bereikt.
  - Ereleden.
- ..- Erelid is degene die door de Algemene Vergadering als zodanig is benoemd vanwege de omstandigheid dat deze zich bijzonder verdienstelijk heeft gemaakt voor de vereniging.
+   - Erelid is degene die door de Algemene Vergadering als zodanig is benoemd vanwege de omstandigheid dat deze zich bijzonder verdienstelijk heeft gemaakt voor de vereniging.
 
 ## Contributie
 De contributie is als volgt vastgesteld:
