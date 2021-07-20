@@ -158,7 +158,7 @@ Als u naar aanleiding van ons Privacy Statement nog vragen of opmerkingen heeft 
 **Contactgegevens**
 
 {{ site.contact.name }}
-{{ site.contact.secretary.address }}
-{{ site.contact.secretary.postal }} {{ site.contact.secretary.city }}
+{{ site.contact.address }}
+{{ site.contact.postal }} {{ site.contact.city }}
 [{{ site.contact.email }}](mailto:{{ site.contact.email }})
 [{{ site.contact.phone }}](tel:{{ site.contact.phone }})

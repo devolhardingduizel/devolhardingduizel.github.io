@@ -241,11 +241,10 @@ compress_html:
 contact:
   name: Muziekvereniging "De Volharding"
   email: info@devolhardingduizel.nl
-  secretary:
-    address: Akkerstraat 16
-    postal: 5525 AC
-    city: Duizel
-    phone: 0000-000000
+  address: Akkerstraat 16
+  postal: 5525 AC
+  city: Duizel
+  phone: 0000-000000
 
 
 # Defaults
