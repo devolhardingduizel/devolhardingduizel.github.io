@@ -157,8 +157,8 @@ Als u naar aanleiding van ons Privacy Statement nog vragen of opmerkingen heeft 
 
 **Contactgegevens**
 
-Muziekvereniging de Volharding Duizel  
-Hilde van Stiphout  
-Horstveld 1  
-5521 SL Eersel  
-info@devolhardingduizel.nl
+{{ site.contact.name }}
+{{ site.contact.secretary.address }}
+{{ site.contact.secretary.postal }} {{ site.contact.secretary.city }}
+[{{ site.contact.email }}](mailto:{{ site.contact.email }})
+[{{ site.contact.phone }}](tel:{{ site.contact.phone }})
