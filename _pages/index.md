@@ -1,5 +1,5 @@
 ---
-title:
+title: ""
 permalink: /
 layout: home
 header:
