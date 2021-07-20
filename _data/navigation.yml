@@ -1,4 +1,8 @@
 main:
+  - title: "Home"
+    url: "/"
+  - title: "Over ons"
+    url: "/over-ons/"
   - title: "Aanmelden"
     url: "/aanmelden/"
   - title: "Activiteitenkalender"
@@ -7,8 +11,8 @@ main:
     url: "/fotos/"
   - title: "Contact"
     url: "/contact/"
-  - title: "Over ons"
-    url: "/over-ons/"
+  - title: "Privacy policy"
+    url: "/privacy-policy/"
 
 about:
   - title: "Over ons"
