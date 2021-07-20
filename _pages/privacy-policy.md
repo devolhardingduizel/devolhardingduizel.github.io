@@ -1,8 +1,6 @@
 ---
-id: 2419
 title: Privacy Policy
-date: 2018-05-21T21:23:26+00:00
-author: Koen
+permalink: /privacy-policy/
 layout: single
 ---
 Muziekvereniging de Volharding Duizel hecht veel waarde aan de bescherming van uw persoonsgegevens. In deze Privacy policy willen we heldere en transparante informatie geven over hoe wij omgaan met persoonsgegevens.
