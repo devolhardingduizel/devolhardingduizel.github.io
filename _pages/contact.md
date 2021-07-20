@@ -3,8 +3,8 @@ title: Contact
 permalink: /contact/
 ---
 ## Secretariaat
-{{ site.contact.name }}
-{{ site.contact.address }}
+{{ site.contact.name }}\
+{{ site.contact.address }}\
 {{ site.contact.postal }} {{ site.contact.city }}
 
 ## Telefoon
