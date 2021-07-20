@@ -1,11 +1,8 @@
 ---
-title:
-layout: splash
+title: ""
 permalink: /
+layout: home
 header:
   overlay_image: /assets/images/muziekvereniging.png
-  caption: 
-feature_row:
-  excerpt: "# Welkom op de website van Muziekvereniging &quot;De Volharding&quot;"
 ---
-{% include feature_row %}
+## Welkom op de website van Muziekvereniging "De Volharding"
