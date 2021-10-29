@@ -2,6 +2,7 @@
 title: ""
 permalink: /
 layout: home
+classes: wide
 header:
   overlay_image: /assets/images/muziekvereniging.png
 ---
