@@ -2,6 +2,7 @@
 title: Privacy Policy
 permalink: /privacy-policy/
 layout: single
+classes: fluid
 ---
 Muziekvereniging de Volharding Duizel hecht veel waarde aan de bescherming van uw persoonsgegevens. In deze Privacy policy willen we heldere en transparante informatie geven over hoe wij omgaan met persoonsgegevens.
 

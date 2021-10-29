@@ -1,6 +1,7 @@
 ---
 title: Aanmelden
 permalink: /aanmelden/
+classes: fluid
 ---
 Voor Muziekvereniging De Volharding kan iedereen, zowel jongeren als ouderen, die belangstelling heeft voor muziek zich aanmelden.
 In onderling overleg wordt dan besproken in welk instrument men geïnteresseerd is, wat de mogelijkheden hiervoor zijn, of men voldoende muzikale kennis en niveau heeft om meteen te kunnen instromen en of een opleiding dient te worden georganiseerd.

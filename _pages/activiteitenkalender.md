@@ -1,6 +1,7 @@
 ---
 title: Activiteitenkalender
 permalink: /activiteitenkalender/
+classes: fluid
 ---
 | Datum      | Activiteit           | Wie                       | Waar      | Wanneer |
 |------------|----------------------|---------------------------|-----------|---------|
