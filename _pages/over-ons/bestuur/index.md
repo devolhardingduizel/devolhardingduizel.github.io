@@ -10,6 +10,7 @@ Het huidige bestuur bestaat uit:
 | Bestuurslid    | Rens Staps           |
 | Bestuurslid    | Sabine Veeger        |
 
+<!---
 ## Taakverdeling
 Voorzitter: Theo Koert
   * Algemene coördinatie
@@ -26,3 +27,4 @@ Secretariaat: Hilde van Stiphout
 Bestuurslid: Ton van der Heijden
   * Beheer en onderhoud van instrumenten
   * Aanspreekpunt voor de percussiegroep en instructeur 
+--->

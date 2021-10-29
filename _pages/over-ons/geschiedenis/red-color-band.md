@@ -8,6 +8,8 @@ De band heeft een goede regionale bekendheid gekregen, vooral door optredens op 
 
 De “Red Color Band” was jarenlang bij feestelijke evenementen of gezellige momenten in Duizel en verre omgeving niet weg te denken en gaf een extra bijzondere dimensie aan muziekvereniging “De Volharding”.
 
-`TODO: Foto`
+<!---
+TODO: Foto
+--->
 
 Helaas viel in april 2007 het doek voor de Red Color Band en hebben zij met een spetterend optreden in De Donk in Duizel afscheid genomen van een groot publiek.
