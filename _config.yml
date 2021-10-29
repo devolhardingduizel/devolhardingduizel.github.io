@@ -19,7 +19,7 @@ locale                   : nl-NL
 title                    : Muziekvereniging "De Volharding"
 title_separator          : |
 subtitle                 : Opgericht 1964
-name                     : "Koen van der Heijden"
+name                     : "Muziekvereniging De Volharding"
 description              : Website met informatie over Muziekvereniging "De Volharding" uit Duizel
 url                      : https://devolhardingduizel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
