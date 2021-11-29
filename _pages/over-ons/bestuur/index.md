@@ -10,6 +10,7 @@ Het huidige bestuur bestaat uit:
 | Bestuurslid    | Rens Staps           |
 | Bestuurslid    | Sabine Veeger        |
 
+
 <!---
 ## Taakverdeling
 Voorzitter: Theo Koert

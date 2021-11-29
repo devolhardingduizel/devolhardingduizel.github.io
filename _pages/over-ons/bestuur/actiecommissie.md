@@ -1,6 +1,7 @@
 ---
 title: Actiecommissie
 permalink: /over-ons/bestuur/actiecommissie/
+published: false
 ---
 Naast allerlei muzikale activiteiten voor Muziekvereniging De Volharding laten de leden ook regelmatig de handjes wapperen om fysieke activiteiten te doen.
 Maandelijks wordt door leden van de muziekvereniging het oud papier in de kern van Duizel en het buitengebied opgehaald.

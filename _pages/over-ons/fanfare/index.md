@@ -4,7 +4,7 @@ permalink: /over-ons/fanfare/
 ---
 Het fanfare orkest bestaat ongeveer uit 25 leden.
 Ze repeteren op maandagavond van 20:00 – 22.00 uur in gemeenschapshuis “De Smis” in Duizel.
-De dirigent is Gert Verrydt.
+De dirigent is [Gert Verrydt](/over-ons/fanfare/dirigent/).
 
 <!---
 TODO: Foto

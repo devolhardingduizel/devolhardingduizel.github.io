@@ -1,6 +1,7 @@
 ---
 title: Instrumenten- en uniformencommissie
 permalink: /over-ons/bestuur/instrumenten-uniformencommissie/
+published: false
 ---
 ## Uniformen
 Alle leden van het fanfareorkest en de percussiegroep krijgen van de vereniging een uniform in bruikleen. Dit bestaat uit:

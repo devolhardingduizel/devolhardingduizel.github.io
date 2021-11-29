@@ -1,6 +1,7 @@
 ---
 title: Programmacommissie
 permalink: /over-ons/bestuur/programmacommissie/
+published: false
 ---
 De programmacommissie bestaat uit leden van Muziekvereniging De Volharding.
 Deze commissie bereidt de optredens van Muziekvereniging De Volharding voor.

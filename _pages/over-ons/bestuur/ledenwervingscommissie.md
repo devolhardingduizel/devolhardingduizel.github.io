@@ -1,6 +1,7 @@
 ---
 title: Ledenwervingscommissie
 permalink: /over-ons/bestuur/ledenwervingscommissie/
+published: false
 ---
 ## Muziekvereniging De Volharding
 De Volharding is de muziekvereniging van Duizel. Bij vele evenementen en feesten wordt De Volharding gevraagd om er een muzikale omlijsting aan te geven.
