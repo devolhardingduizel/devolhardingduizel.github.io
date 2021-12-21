@@ -21,10 +21,10 @@ Muziekvereniging De Volharding kent de volgende leden:
 
 ### Contributie
 De contributie is als volgt vastgesteld:
-  * Jeugdleden: € 37,50
+  * Jeugdleden: € 27,50
   * Gewone leden: € 75,-
-  * Ereleden: vrijgesteld van contributie
-  * Bestuursleden: (spelend / niet spelend): € 37,50
+
+Ereleden betalen geen contributie.
 
 De contributie wordt in het algemeen in het voorjaar van het verenigingsjaar geïnd.
 
