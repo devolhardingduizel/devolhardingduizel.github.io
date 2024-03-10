@@ -35,9 +35,6 @@ socials:
 include:
   - _pages
 
-exclude:
-  - assets/vendor
-
 color:
   primary: "#4b4375"
   secondary: "#c1bcd5"
@@ -51,6 +48,11 @@ color:
 sass:
   style: compressed
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 # Custom
 contact:
   name: Muziekvereniging "De Volharding"
@@ -59,8 +61,3 @@ contact:
   postal: 5525 AC
   city: Duizel
   phone: 06-25437761
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
