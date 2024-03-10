@@ -2,6 +2,8 @@
 title: Leerlingenorkest
 permalink: /over-ons/leerlingenorkest/
 ---
+# Leerlingenorkest
+
 Helaas hebben wij momenteel zelf geen leerlingenorkest omdat we daarvoor te weinig leerlingen in opleiding hebben.
 Onze leerlingen sluiten echter, samen met de leerlingen van fanfare Wilhelmina uit Hoogeloon, aan bij het opleidings- en leerlingenorkest van harmonie Sint Willibrordus uit Casteren.
 

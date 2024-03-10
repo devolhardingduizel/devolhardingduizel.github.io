@@ -1,12 +1,12 @@
 ---
 title: Privacy Policy
 permalink: /privacy-policy/
-layout: single
-classes: fluid
 ---
-Muziekvereniging de Volharding Duizel hecht veel waarde aan de bescherming van uw persoonsgegevens. In deze Privacy policy willen we heldere en transparante informatie geven over hoe wij omgaan met persoonsgegevens.
+# Privacy Policy
 
-Wij doen er alles aan om uw privacy te waarborgen en gaan daarom zorgvuldig om met persoonsgegevens. Muziekvereniging de Volharding Duizel houdt zich in alle gevallen aan de toepasselijke wet- en regelgeving, waaronder de Algemene Verordening Gegevensbescherming.&nbsp; Dit brengt met zich mee dat wij in ieder geval:
+Muziekvereniging "De Volharding" Duizel hecht veel waarde aan de bescherming van uw persoonsgegevens. In deze Privacy policy willen we heldere en transparante informatie geven over hoe wij omgaan met persoonsgegevens.
+
+Wij doen er alles aan om uw privacy te waarborgen en gaan daarom zorgvuldig om met persoonsgegevens. Muziekvereniging "De Volharding" Duizel houdt zich in alle gevallen aan de toepasselijke wet- en regelgeving, waaronder de Algemene Verordening Gegevensbescherming.&nbsp; Dit brengt met zich mee dat wij in ieder geval:
 
   * Uw persoonsgegevens verwerken in overeenstemming met het doel waarvoor deze zijn verstrekt, deze doelen en type persoonsgegevens zijn beschreven in dit Privacy policy;
   * Verwerking van uw persoonsgegevens beperkt is tot enkel die gegevens welke minimaal nodig zijn voor de doeleinden waarvoor ze worden verwerkt;
@@ -15,10 +15,10 @@ Wij doen er alles aan om uw privacy te waarborgen en gaan daarom zorgvuldig om m
   * Geen persoonsgegevens doorgeven aan andere partijen, tenzij dit nodig is voor uitvoering van de doeleinden waarvoor ze zijn verstrekt;
   * Op de hoogte zijn van uw rechten omtrent uw persoonsgegevens, u hierop willen wijzen en deze respecteren.
 
-Als Muziekvereniging de Volharding Duizel &nbsp;zijn wij verantwoordelijk voor de verwerking van uw persoonsgegevens. Indien u na het doornemen van ons Privacy policy, of in algemenere zin, vragen heeft hierover of contact met ons wenst op te nemen kan dit via de contactgegevens onder aan dit document.
+Als Muziekvereniging "De Volharding" Duizel &nbsp;zijn wij verantwoordelijk voor de verwerking van uw persoonsgegevens. Indien u na het doornemen van ons Privacy policy, of in algemenere zin, vragen heeft hierover of contact met ons wenst op te nemen kan dit via de contactgegevens onder aan dit document.
 
 ### Verwerking van persoonsgegevens van verenigingsleden
-Persoonsgegevens van verenigingsleden worden door Muziekvereniging de Volharding Duizel verwerkt ten behoeve van de volgende doelstelling(en):
+Persoonsgegevens van verenigingsleden worden door Muziekvereniging "De Volharding" Duizel verwerkt ten behoeve van de volgende doelstelling(en):
 
   * Administratieve doeleinden;
   * Het uitvoering geven aan de lidmaatschapsovereenkomst.
@@ -27,7 +27,7 @@ Grondslag voor deze persoonsgegevens is:
 
   * Het lidmaatschapsovereenkomst;
 
-Voor de bovenstaande doelstelling(en) kan Muziekvereniging de Volharding Duizel de volgende persoonsgegevens van u vragen:
+Voor de bovenstaande doelstelling(en) kan Muziekvereniging "De Volharding" Duizel de volgende persoonsgegevens van u vragen:
 
   * Naam;
   * Adres;
@@ -36,12 +36,12 @@ Voor de bovenstaande doelstelling(en) kan Muziekvereniging de Volharding Duizel 
   * E-mailadres;
   * Geslacht;
 
-Uw persoonsgegevens worden door Muziekvereniging de Volharding Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
+Uw persoonsgegevens worden door Muziekvereniging "De Volharding" Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
 
   * Gedurende de looptijd van de overeenkomst en daarna alleen in de financiële administratie voor maximaal 7 jaar.
 
 ### Verwerking van persoonsgegevens van oud-leden
-Persoonsgegevens van cliënten worden door Muziekvereniging de Volharding Duizel verwerkt ten behoeve van de volgende doelstelling(en):
+Persoonsgegevens van cliënten worden door Muziekvereniging "De Volharding" Duizel verwerkt ten behoeve van de volgende doelstelling(en):
 
   * Administratieve doeleinden.
   * Benaderen voor evt. reünie doeleinden
@@ -50,7 +50,7 @@ Grondslag voor deze persoonsgegevens is:
 
   * Het (oude) lidmaatschapsovereenkomst;
 
-Voor de bovenstaande doelstelling(en) kan Muziekvereniging de Volharding Duizel de volgende persoonsgegevens van u vragen:
+Voor de bovenstaande doelstelling(en) kan Muziekvereniging "De Volharding" Duizel de volgende persoonsgegevens van u vragen:
 
   * Voornaam;
   * Tussenvoegsel;
@@ -58,12 +58,12 @@ Voor de bovenstaande doelstelling(en) kan Muziekvereniging de Volharding Duizel 
   * Telefoonnummer;
   * E-mailadres;
 
-Uw persoonsgegevens worden door Muziekvereniging de Volharding Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
+Uw persoonsgegevens worden door Muziekvereniging "De Volharding" Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
 
   * Maximaal 40 jaar.
 
 ### Verwerking van persoonsgegevens van de nieuwsbrief voor abonnees: d&#8217;n Roffel
-Persoonsgegevens van de nieuwsbrief voor abonnees, d&#8217;n Roffel, worden door Muziekvereniging de Volharding Duizel verwerkt ten behoeve van de volgende doelstelling(en):
+Persoonsgegevens van de nieuwsbrief voor abonnees, d&#8217;n Roffel, worden door Muziekvereniging "De Volharding" Duizel verwerkt ten behoeve van de volgende doelstelling(en):
 
   * Het informeren van de persoon d.m.v. nieuwsuitingen.
 
@@ -71,19 +71,19 @@ Grondslag voor deze persoonsgegevens is:
 
   * Het bevestigings- /aanmeldingsformulier&nbsp; “Nieuwsbrief&#8221;, d&#8217;n Roffel;
 
-Voor de bovenstaande doelstelling(en) kan Muziekvereniging de Volharding Duizel de volgende persoonsgegevens van u vragen:
+Voor de bovenstaande doelstelling(en) kan Muziekvereniging "De Volharding" Duizel de volgende persoonsgegevens van u vragen:
 
   * Voornaam;
   * Tussenvoegsel;
   * Achternaam;
   * E-mailadres.
 
-Uw persoonsgegevens worden door Muziekvereniging de Volharding Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
+Uw persoonsgegevens worden door Muziekvereniging "De Volharding" Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
 
   * Gedurende de periode dat men aangemeld is.
 
-### Verwerking van persoonsgegevens van leden van Stichting Vrienden van de Volharding
-Persoonsgegevens van leden van Stichting Vrienden van de Volharding worden door Muziekvereniging de Volharding Duizel verwerkt ten behoeve van de volgende doelstelling(en):
+### Verwerking van persoonsgegevens van leden van Stichting Vrienden van "De Volharding"
+Persoonsgegevens van leden van Stichting Vrienden van "De Volharding" worden door Muziekvereniging "De Volharding" Duizel verwerkt ten behoeve van de volgende doelstelling(en):
 
   * Informatieverstrekking in de vorm van nieuwsbrieven en/of gerichte contacten
 
@@ -91,7 +91,7 @@ Grondslag voor deze persoonsgegevens is:
 
   * Mondelinge toestemming, afgifte visitekaartje en/of aanmelding lidmaatschap
 
-Voor de bovenstaande doelstelling(en) kan Muziekvereniging de Volharding Duizel de volgende persoonsgegevens van u vragen:
+Voor de bovenstaande doelstelling(en) kan Muziekvereniging "De Volharding" Duizel de volgende persoonsgegevens van u vragen:
 
   * Voornaam;
   * Tussenvoegsel;
@@ -99,9 +99,9 @@ Voor de bovenstaande doelstelling(en) kan Muziekvereniging de Volharding Duizel 
   * Telefoonnummer;
   * E-mailadres.
 
-Uw persoonsgegevens worden door Muziekvereniging de Volharding Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
+Uw persoonsgegevens worden door Muziekvereniging "De Volharding" Duizel opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
 
-  * Gedurende de periode dat men lid is van Stichting Vrienden van de Volharding
+  * Gedurende de periode dat men lid is van Stichting Vrienden van "De Volharding"
 
 ### Verstrekking aan derden
 De gegevens die u aan ons geeft kunnen wij aan derde partijen verstrekken indien dit noodzakelijk is voor uitvoering van de hierboven beschreven doeleinden.
@@ -121,12 +121,12 @@ Wij verstrekken geen persoonsgegevens aan partijen welke gevestigd zijn buiten d
 Wij verwerken enkel en alleen persoonsgegevens van minderjarigen (personen jonger dan 16 jaar) indien daarvoor schriftelijke toestemming is gegeven door de ouder, verzorger of wettelijke vertegenwoordiger.
 
 ### Bewaartermijn
-Muziekvereniging de Volharding Duizel bewaart persoonsgegevens niet langer dan noodzakelijk voor het doel waarvoor deze zijn verstrekt dan wel op grond van de wet is vereist.
+Muziekvereniging "De Volharding" Duizel bewaart persoonsgegevens niet langer dan noodzakelijk voor het doel waarvoor deze zijn verstrekt dan wel op grond van de wet is vereist.
 
 ### Beveiliging
 Wij hebben passende technische en organisatorische maatregelen genomen om persoonsgegevens van u te beschermen tegen onrechtmatige verwerking, zo hebben we bijvoorbeeld de volgende maatregelen genomen;
 
-  * Alle personen die namens Muziekvereniging de Volharding Duizel van uw gegevens kennis kunnen nemen, zijn gehouden aan geheimhouding daarvan.
+  * Alle personen die namens Muziekvereniging "De Volharding" Duizel van uw gegevens kennis kunnen nemen, zijn gehouden aan geheimhouding daarvan.
   * We hanteren een gebruikersnaam en wachtwoordbeleid op al onze systemen;
   * We pseudonimiseren en zorgen voor de encryptie van persoonsgegevens als daar aanleiding toe is;
   * Wij maken back-ups van de persoonsgegevens om deze te kunnen herstellen bij fysieke of technische incidenten;

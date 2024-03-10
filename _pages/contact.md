@@ -1,8 +1,9 @@
 ---
 title: Contact
 permalink: /contact/
-classes: fluid
 ---
+# Contact
+
 ### Secretariaat
 {{ site.contact.name }}\
 {{ site.contact.address }}\

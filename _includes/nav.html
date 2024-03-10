@@ -1,0 +1,28 @@
+{% for item in include.nav %}
+{% if item.active_exact | default: false %}
+{% if page.url == item.url %}
+{% assign active = true %}
+{% else %}
+{% assign active = false %}
+{% endif %}
+{% else %}
+{% assign prefix = page.url | split: item.url | first | strip %}
+{% if prefix == "" %}
+{% assign active = true %}
+{% else %}
+{% assign active = false %}
+{% endif %}
+{% endif %}
+<li class="nav-item{% if item.children %} drop{{ include.dir | default: 'down' }}{% endif %}">
+    <a class="{{ include.item_class }}{% if item.children %} dropdown-toggle{% endif %}{% if active %} active{% endif %}"
+       {% if active %} aria-current="page" {% endif %}
+       href="{{ item.url }}">
+        {{ item.title }}
+    </a>
+    {% if item.children %}
+    <ul class="dropdown-menu" data-bs-theme="light">
+        {% include nav.html nav=item.children dir="end" item_class="dropdown-item" %}
+    </ul>
+    {% endif %}
+</li>
+{% endfor %}

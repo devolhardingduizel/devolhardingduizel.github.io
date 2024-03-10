@@ -2,6 +2,8 @@
 title: Fanfare
 permalink: /over-ons/geschiedenis/fanfare/
 ---
+# De geschiedenis van onze fanfare
+
 De vereniging werd in 1964 opgestart met Duizelse muzikanten die, wegens het ontbreken van een muziekvereniging in Duizel, noodgedwongen waren uitgeweken naar verenigingen in de omliggende dorpen.
 In dat jaar werd tevens gestart met een opleiding voor nieuwe muzikanten.
 

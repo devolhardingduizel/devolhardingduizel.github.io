@@ -1,9 +1,10 @@
 ---
 title: Aanmelden
 permalink: /aanmelden/
-classes: fluid
 ---
-Voor Muziekvereniging De Volharding kan iedereen, zowel jongeren als ouderen, die belangstelling heeft voor muziek zich aanmelden.
+# Aanmelden
+
+Voor Muziekvereniging "De Volharding" kan iedereen, zowel jongeren als ouderen, die belangstelling heeft voor muziek zich aanmelden.
 In onderling overleg wordt dan besproken in welk instrument men geïnteresseerd is, wat de mogelijkheden hiervoor zijn, of men voldoende muzikale kennis en niveau heeft om meteen te kunnen instromen en of een opleiding dient te worden georganiseerd.
 
 ### Verenigingsjaar
@@ -11,7 +12,7 @@ In onderling overleg wordt dan besproken in welk instrument men geïnteresseerd 
  * Het muzikale jaar loopt ongeveer van september tot medio juli van het daarop volgende jaar.
 
 ### Leden
-Muziekvereniging De Volharding kent de volgende leden:
+Muziekvereniging "De Volharding" kent de volgende leden:
  * Jeugdleden.
    * Jeugdlid is degene die bij het begin van het verenigingsjaar de leeftijd van 18 jaar nog niet heeft bereikt.
  * Gewone leden.
@@ -21,8 +22,8 @@ Muziekvereniging De Volharding kent de volgende leden:
 
 ### Contributie
 De contributie is als volgt vastgesteld:
-  * Jeugdleden: € 27,50
-  * Gewone leden: € 75,-
+  * Jeugdleden: € 36,50
+  * Leden: € 100,-
 
 Ereleden betalen geen contributie.
 

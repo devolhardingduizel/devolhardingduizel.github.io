@@ -1,0 +1,20 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+$primary: {{ site.color.primary }};
+$secondary: {{ site.color.secondary }};
+$success: {{ site.color.success }};
+$info: {{ site.color.info }};
+$warning: {{ site.color.warning }};
+$danger: {{ site.color.danger }};
+$light: {{ site.color.light }};
+$dark: {{ site.color.dark }};
+
+$navbar-brand-margin-end: 3rem;
+
+@import "bootstrap/scss/bootstrap";
+
+#logo {
+  filter: invert(86%) sepia(100%) saturate(1%) hue-rotate(147deg) brightness(103%) contrast(101%);
+}

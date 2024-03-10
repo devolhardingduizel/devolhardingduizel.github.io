@@ -2,6 +2,8 @@
 title: Over ons
 permalink: /over-ons/
 ---
+# Over ons
+
 Fanfare “De Volharding” werd op 14 september 1964 opgericht door een aantal enthousiaste inwoners van Duizel die het gemis van een “eigen” muziekvereniging binnen de Duizelse gemeenschap steeds nadrukkelijker begonnen te ervaren.
 
 Alhoewel de vereniging een korte historie heeft in vergelijking met vele fanfares en harmonieën in de omgeving, kan gesteld worden dat “De Volharding” inmiddels een niet meer weg te denken rol binnen de Duizelse gemeenschap heeft verworven.

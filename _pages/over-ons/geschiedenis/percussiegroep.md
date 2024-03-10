@@ -2,6 +2,8 @@
 title: Percussiegroep
 permalink: /over-ons/geschiedenis/percussiegroep/
 ---
+# De geschiedenis van onze percussiegroep
+
 Naast het fanfareorkest werd er na de oprichting van de fanfare in 1964 ook een opstart gemaakt met de drumband van de vereniging onder leiding van instructeur Dhr. Teurlinkx die al in 1967 werd opgevolgd door Dhr. J. Bierens uit Eersel.
 Onder leiding van Dhr. J. Bierens maakte de drumband een voortreffelijke groei en ontwikkeling door en bereikte uiteindelijk de 1e afdeling.
 Dhr. Bierens bleef ca. 10 jaar in dienst als instructeur tot hij op 8 september 1977 werd opgevolgd door dhr. H. van Rooy uit Veldhoven.
