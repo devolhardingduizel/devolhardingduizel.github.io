@@ -22,7 +22,7 @@ title: Muziekvereniging "De Volharding"
 subtitle: Opgericht 1964
 description:
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devolhardingduizel.nl" # the base hostname & protocol for your site, e.g. http://example.com
 locale: "nl"
 
