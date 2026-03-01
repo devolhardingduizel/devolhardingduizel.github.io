@@ -30,6 +30,8 @@ header:
       url: "/over-ons/sigarenbendje/"
     - title: "Bestuur"
       url: "/over-ons/bestuur/"
+  - title: TV Concert
+    url: "/tv-concert/"
   - title: "Aanmelden"
     url: "/aanmelden/"
   - title: "Contact"
