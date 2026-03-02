@@ -16,14 +16,8 @@ header:
           url: "/over-ons/geschiedenis/red-color-band/"
     - title: "Fanfare"
       url: "/over-ons/fanfare/"
-      children:
-        - title: "Dirigent"
-          url: "/over-ons/fanfare/dirigent/"
     - title: "Percussiegroep"
       url: "/over-ons/percussiegroep/"
-      children:
-        - title: "Instructeur"
-          url: "/over-ons/percussiegroep/instructeur/"
     - title: "Leerlingenorkest"
       url: "/over-ons/leerlingenorkest/"
     - title: "'t Sigarenbêndje"

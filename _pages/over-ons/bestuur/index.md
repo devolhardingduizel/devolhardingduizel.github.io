@@ -7,6 +7,5 @@ permalink: /over-ons/bestuur/
 Het huidige bestuur bestaat uit:
 
 | Voorzitter     | Diego van de Ven     |
-| Penningmeester | Henri Tops           |
+| Penningmeester | Koen van der Heijden |
 | Secretaris     | Kirsten Floren       |
-| Bestuurslid    | Koen van der Heijden |
