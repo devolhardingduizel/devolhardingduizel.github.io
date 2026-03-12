@@ -16,7 +16,7 @@ Of je nu komt voor de muziek, de sfeer of een compleet avondje uit: dit wil je n
 
 Voor ons TV-Concert kun je kiezen uit twee ticketopties. Beide tickets geven je toegang tot een geweldige muzikale avond, maar de beleving verschilt nét even in comfort en service. 
 
-### ⭐ VIP-ticket – €10,00 (beperkt aantal plaatsen beschikbaar)
+### ⭐ VIP-ticket – **UITVERKOCHT**
 
 Wil je het concert extra comfortabel beleven? Kies dan voor VIP en maak er een complete avond uit van. 
 
